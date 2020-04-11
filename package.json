@@ -1,0 +1,23 @@
+{
+  "name": "allitebooks",
+  "version": "1.0.0",
+  "description": "Nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cheerio": "*",
+    "inquirer": "*",
+    "node-async-loop": "*",
+    "request": "*",
+    "request-promise": "^4.2.5",
+    "request-promise-native": "*"
+  },
+  "keywords": [
+    "ebooks"
+  ],
+  "author": "toanpm",
+  "license": "MIT"
+}
